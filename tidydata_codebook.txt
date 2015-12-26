@@ -1,0 +1,33 @@
+================Code Book==================
+
+Variables:
+
+Subject-
+  Identifier for the 30 participants of the experiment. Values range from 1-30
+
+act_name-
+  This is the activity name for the data collected.
+  1 WALKING
+  2 WALKING_UPSTAIRS
+  3 WALKING_DOWNSTAIRS
+  4 SITTING
+  5 STANDING
+  6 LAYING
+  
+tBodyAcc_mean_X -
+  mean value for time domain signals captured at 50 Hz in the X- axis
+
+tBodyAcc_mean_Y - 
+  mean value for time domain signals captured at 50 Hz in the Y- axis
+
+tBodyAcc_mean_Z - 
+  mean value for time domain signals captured at 50 Hz in the Z- axis
+
+tBodyAcc_mean_std_X - 
+  mean value for standard deviation of time domain signals captured at 50 Hz in the X- axis
+
+tBodyAcc_mean_std_Y - 
+  mean value for standard deviation of time domain signals captured at 50 Hz in the Y- axis
+
+tBodyAcc_mean_std_Z - 
+  mean value for standard deviation of time domain signals captured at 50 Hz in the Z- axis
